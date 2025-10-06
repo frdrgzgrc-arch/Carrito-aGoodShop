@@ -1,4 +1,4 @@
-const API_URL = "https://jsonblob.com/api/jsonblob/1424844136175034368";
+const API_URL = "https://github.com/frdrgzgrc-arch/Carrito-aGoodShop/blob/main/productos.json";
 
 let carrito = [];
 
@@ -54,3 +54,4 @@ document.getElementById("vaciar").addEventListener("click", () => {
   carrito = [];
   document.getElementById("total").textContent = "0";
 });
+
