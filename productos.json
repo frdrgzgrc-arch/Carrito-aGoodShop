@@ -1,0 +1,30 @@
+{
+  "currency": "€",
+  "products": [
+    {
+      "SKU": "0K3QOSOV4V",
+      "title": "iPhone 17 Pro",
+      "price": "1499.00"
+    },
+    {
+      "SKU": "TGD5XORY1L",
+      "title": "Cargador rápido USB-C 45W",
+      "price": "59.99"
+    },
+    {
+      "SKU": "IOKW9BQ9F3",
+      "title": "Funda de piel premium",
+      "price": "89.99"
+    },
+    {
+      "SKU": "YHJ7SD9KQ1",
+      "title": "AirPods Pro 3",
+      "price": "299.00"
+    },
+    {
+      "SKU": "JQW2XPA7ZL",
+      "title": "Apple Watch Ultra 3",
+      "price": "999.00"
+    }
+  ]
+}
