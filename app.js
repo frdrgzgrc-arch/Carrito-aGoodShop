@@ -1,4 +1,4 @@
-const API_URL = "https://raw.githubusercontent.com/tuusuario/carrito-agoodshop/main/productos.json";
+const API_URL = "https://raw.githubusercontent.com/frdrgzgrc-arch/Carrito-aGoodShop/refs/heads/main/productos.json";
 
 let carrito = [];
 
@@ -54,5 +54,6 @@ document.getElementById("vaciar").addEventListener("click", () => {
   carrito = [];
   document.getElementById("total").textContent = "0";
 });
+
 
 
